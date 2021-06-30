@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "글 포스팅 방법"
+title:  "글 작성 방법"
 subtitle:   "0630"
 categories: notice
 tags: notice
@@ -8,20 +8,29 @@ comments: true
 header-img: 
 ---
 
-## 개요
-> 글을 올리는 방법에 대해 간단히 예시를 들어보았습니다. 
 
-- 목차
-	- 목차 작성 1
-	- 목차 작성 2 
-  
+> 이 블로그에 글을 작성하는 방법에 대한 내용입니다.
+### 글 작성형식
+Markdown 형식으로 작성하시면 됩니다.
+### 글이 저장되는 위치
+모든 글은 __post_ 폴더 안에 저장됩니다.
 
-## 본문 1
----
-본문내용
+![표지](https://gist-netchallenge2021.github.io/assets/img/notice/post.png)
 
-![표지](https://gist-netchallenge2021.github.io/assets/img/review/review-book-grokking-ai-algorithms-1.png)
+### 원하는 카테고리에 글을 저장하는 방법
+모든 글은 **category, subtitle, tag** 를 통해 구분 됩니다. <br>
+**category**는 **notice,plan,project,progress** 이렇게 4가지가 있고, <br>
+**tag**는 서브메뉴를 위한 것이며, 현재는 **project,progress** category에만 있습니다. <br>
+**project** 의 경우, **ai, backend, frontend** 으로 총 3가지 tag를 가집니다.<br>
+**progress** 의 경우, **고세연,고준희,김건호,김진영,정형록,정효인** 으로 총 6가지 tag를 가집니다.<br>
+예를 들어, 만약 **progress** 카테고리에 있는 **고세연** 항목에 글을 작성하고 싶다고 한다면, <br>
+아래 그림과 같이 **categories**를 **progress**로, **tags**를 **고세연**으로 설정합니다.<br>
+![표지](https://gist-netchallenge2021.github.io/assets/img/notice/categories-tags.png)
+이 때, **subtitle**를 매 글마다 다르게 설정하여, 같은 **category**, 같은 **tag**를 가진 항목의 글들을 구별해줍니다. <br>
+저는 날짜를 이용해 구별지었습니다.
 
-## 본문 2
----
-본문내용
+### 이미지를 삽입할 경우 이미지를 저장할 위치
+assets 폴더 안에 있는 img 폴더 안에 각 category 별로 저장하시면 됩니다.
+
+### 작성 후 
+git add , git commit, git push 해주시면 끝!

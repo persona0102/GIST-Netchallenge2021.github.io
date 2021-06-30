@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "글 작성 예시"
+title:  "작성 예시"
 subtitle:   "0630"
 categories: notice
 tags: notice
