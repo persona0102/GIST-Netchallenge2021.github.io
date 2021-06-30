@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "git 공부 (고세연)"
+subtitle:   "0701"
+categories: progress
+tags: 고세연
+comments: true
+header-img: 
+---
+
+## 개요
+> 글 예시
+
+- 목차
+	- 목차 작성 1
+	- 목차 작성 2 
+  
+
+## 본문 1
+---
+본문내용
+
+
+
+## 본문 2
+---
+본문내용

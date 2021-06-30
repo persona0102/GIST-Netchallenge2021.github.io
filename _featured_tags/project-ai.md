@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: AI
+title: ai
 slug: ai
 category: project
 menu: false
-order: 2
+order: 1
 ---

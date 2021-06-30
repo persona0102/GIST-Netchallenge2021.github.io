@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "git 관련 학습"
+title:  "javascript 공부 (고준희)"
 subtitle:   "0701"
 categories: progress
 tags: 고준희
@@ -9,7 +9,7 @@ header-img:
 ---
 
 ## 개요
-> 글을 올리는 방법에 대해 간단히 예시를 들어보았습니다. 
+> 글 예시
 
 - 목차
 	- 목차 작성 1

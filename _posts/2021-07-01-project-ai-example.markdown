@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "git 관련 학습"
+title:  "AI 개발"
 subtitle:   "0701"
-categories: progress
-tags: 고세연
+categories: project
+tags: ai
 comments: true
 header-img: 
 ---
 
 ## 개요
-> 글을 올리는 방법에 대해 간단히 예시를 들어보았습니다. 
+> AI 개발
 
 - 목차
 	- 목차 작성 1
