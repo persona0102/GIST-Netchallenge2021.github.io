@@ -3,7 +3,7 @@ layout: post
 title:  "git 관련 학습 4 "
 subtitle:   "여긴 비워도 됨"
 categories: progress
-tags: seyeon
+tags: seyeon 3
 comments: true
 header-img: 
 ---
