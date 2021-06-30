@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "git 관련 학습 1"
-subtitle:   "0630"
+title:  "git 관련 학습"
+subtitle:   "0701"
 categories: progress
-tags: seyeon
+tags: 고준희
 comments: true
 header-img: 
 ---

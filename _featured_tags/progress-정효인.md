@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: seyeon
-slug: seyeon
+title: 정효인
+slug: 정효인
 category: progress
 menu: false
 order: 1
