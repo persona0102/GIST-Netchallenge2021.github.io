@@ -11,9 +11,11 @@ header-img:
 
 > 이 블로그에 글을 작성하는 방법에 대한 내용입니다.
 ### 글 작성형식
-Markdown 형식으로 작성하시면 됩니다.
-### 글이 저장되는 위치
-모든 글은 __post_ 폴더 안에 저장됩니다.
+Markdown 형식으로 작성하시면 됩니다. <br>
+github에서 markdown으로 새로운 글 추가, 수정, 삭제 다 가능해서 <br>
+jekyll 등 기타 다른 것들을 깔 필요가 없습니다. <br>
+### 글 저장 위치
+모든 글은 __post_ 폴더 안에 저장하시면 됩니다.
 
 ![표지](https://gist-netchallenge2021.github.io/assets/img/notice/post.png)
 
