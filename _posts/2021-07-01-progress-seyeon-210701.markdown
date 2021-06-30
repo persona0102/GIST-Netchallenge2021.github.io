@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "git 관련 학습 1"
-subtitle:   "여긴 비워도 됨"
+subtitle:   "0630"
 categories: progress
 tags: seyeon
 comments: true

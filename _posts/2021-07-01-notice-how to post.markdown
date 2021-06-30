@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "글 포스팅 방법"
-subtitle:   "여긴 비워도 됨"
+subtitle:   "0630"
 categories: notice
 tags: notice
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "글 작성 예시"
-subtitle:   "여긴 비워도 됨"
+subtitle:   "0630"
 categories: back-end
 tags: back-end
 comments: true
