@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "git 공부 (고세연)"
+title:  "210701 git 공부 (고세연)"
 subtitle:   "0701"
 categories: progress
 tags: 고세연

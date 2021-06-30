@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "프론트엔드 개발"
+title:  "210701 프론트엔드 진행상황"
 subtitle:   "0701"
 categories: project
 tags: frontend

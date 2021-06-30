@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "spring 공부 (김진영)"
+title:  "210701 spring 공부 (김진영)"
 subtitle:   "0701"
 categories: progress
 tags: 김진영

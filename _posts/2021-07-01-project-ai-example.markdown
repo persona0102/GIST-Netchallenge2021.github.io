@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI 개발"
+title:  "210701 AI 진행상황"
 subtitle:   "0701"
 categories: project
 tags: ai
