@@ -4,7 +4,7 @@ title: Plan
 slug: plan
 menu: true
 submenu: false
-order: 5
+order: 2
 description: >
   계획을 올리시면 됩니다.
 ---
