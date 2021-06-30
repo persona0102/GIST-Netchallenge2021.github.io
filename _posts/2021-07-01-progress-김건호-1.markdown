@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "210701 javascript 공부 (김건호)"
-subtitle:   "0701"
+subtitle:   "210701"
 categories: progress
 tags: 김건호
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "210701 백엔드 진행상황"
-subtitle:   "0701"
+subtitle:   "210701"
 categories: project
 tags: backend
 comments: true

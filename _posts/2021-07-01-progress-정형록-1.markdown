@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "210701 opencv 공부 (정형록)"
-subtitle:   "0701"
+subtitle:   "210701"
 categories: progress
 tags: 정형록
 comments: true

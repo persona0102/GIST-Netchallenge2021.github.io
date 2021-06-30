@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "글 작성 방법"
-subtitle:   "0630"
+title:  "210701 글 작성 방법"
+subtitle:   "210701"
 categories: notice
 tags: notice
 comments: true
