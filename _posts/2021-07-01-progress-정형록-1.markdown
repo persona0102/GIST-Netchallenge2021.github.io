@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "210701 opencv 공부 (정형록)"
+title:  "7월 1일 공부 (정형록)"
 subtitle:   "210701"
 categories: progress
 tags: 정형록
